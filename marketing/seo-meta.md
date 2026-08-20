@@ -3,10 +3,10 @@
 ## Homepage
 
 **Title tag (≤60 chars):**
-As-Built Surveys & Drawings NY, NJ, CT | Tri-State As-Built Pros
+As-Built Surveys & Drawings | Lakewood, Toms River, Brooklyn
 
 **Meta description (≤155 chars):**
-Fast, accurate as-built surveys & CAD drawings for NY, NJ & CT. Close out your permit the first time. Licensed surveyors. Free quotes.
+Fast, accurate as-built surveys & CAD drawings in Lakewood, Toms River, Jackson & Brooklyn. Close out your permit the first time. Free quotes.
 
 **Suggested URL:** `/` (homepage)
 
@@ -18,7 +18,7 @@ Fast, accurate as-built surveys & CAD drawings for NY, NJ & CT. Close out your p
 As-Built Survey & Drawing Services | Tri-State As-Built Pros
 
 **Meta description:**
-As-built surveys, CAD drafting, elevation certificates, foundation surveys & ALTA surveys across the tri-state area. Get a free quote today.
+As-built surveys, CAD drafting, elevation certificates, foundation surveys & ALTA surveys in Ocean County, NJ & Brooklyn, NY. Get a free quote today.
 
 **Suggested URL:** `/services`
 
@@ -35,35 +35,38 @@ As-Built Surveys in {CITY}, {STATE} | Tri-State As-Built Pros
 Licensed as-built surveyors serving {CITY} & {COUNTY}. Fast turnaround, permit-ready drawings. Call now for a free quote.
 
 **Suggested URLs:**
-- `/as-built-surveys-nyc`
-- `/as-built-surveys-long-island`
-- `/as-built-surveys-westchester`
-- `/as-built-surveys-bergen-county-nj`
-- `/as-built-surveys-fairfield-county-ct`
+- `/as-built-surveys-lakewood-nj`
+- `/as-built-surveys-toms-river-nj`
+- `/as-built-surveys-jackson-nj`
+- `/as-built-surveys-brooklyn-ny`
 
 ---
 
 ## Primary Keywords
 
-- as-built survey [city/state]
+- as-built survey Lakewood NJ
+- as-built survey Toms River
+- as-built survey Jackson NJ
+- as-built survey Brooklyn
 - as-built drawings
 - as-built survey near me
-- elevation certificate NY / NJ / CT
+- elevation certificate Ocean County NJ
 - foundation survey
 - permit close out survey
-- ALTA survey tri-state
-- land surveyor NYC / NJ / CT
+- ALTA survey Ocean County
+- land surveyor Lakewood / Toms River / Brooklyn
 - site plan for permit
 - CAD drafting as-built
 
 ## Secondary / Long-Tail Keywords
 
 - how long does an as-built survey take
-- as-built survey for DOB approval
-- as-built survey cost NYC
+- as-built survey for township permit approval
+- as-built survey cost Ocean County NJ
 - foundation location survey before framing
 - FEMA elevation certificate for flood insurance
-- as-built survey for home addition permit
+- as-built survey for home addition permit Jackson NJ
+- as-built survey Brooklyn DOB approval
 
 ---
 
@@ -76,8 +79,8 @@ Add `LocalBusiness` (or more specifically `ProfessionalService`) JSON-LD to the 
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
   "name": "Tri-State As-Built Pros",
-  "description": "Licensed as-built surveys, CAD drawings, and permit close-out services across New York, New Jersey, and Connecticut.",
-  "areaServed": ["New York", "New Jersey", "Connecticut"],
+  "description": "Licensed as-built surveys, CAD drawings, and permit close-out services in Lakewood, Toms River, Jackson & Brooklyn.",
+  "areaServed": ["Lakewood, NJ", "Toms River, NJ", "Jackson, NJ", "Brooklyn, NY"],
   "url": "https://tristate-asbuilt-pros.netlify.app/",
   "telephone": "+1-845-907-5025",
   "priceRange": "$$"

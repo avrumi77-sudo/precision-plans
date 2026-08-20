@@ -44,4 +44,4 @@ From elevation certificates to ALTA surveys, Tri-State As-Built Pros has your pr
 Thank you for the kind words! We're glad we could get your as-built survey done quickly and get you through permit approval without a hitch. We appreciate your business!
 
 **Negative/neutral review:**
-Thanks for the feedback — we take this seriously. Please give us a call at (XXX) XXX-XXXX so we can make this right.
+Thanks for the feedback — we take this seriously. Please give us a call at (845) 907-5025 so we can make this right.

@@ -79,7 +79,7 @@ Add `LocalBusiness` (or more specifically `ProfessionalService`) JSON-LD to the 
   "description": "Licensed as-built surveys, CAD drawings, and permit close-out services across New York, New Jersey, and Connecticut.",
   "areaServed": ["New York", "New Jersey", "Connecticut"],
   "url": "https://tristate-asbuilt-pros.netlify.app/",
-  "telephone": "+1-XXX-XXX-XXXX",
+  "telephone": "+1-845-907-5025",
   "priceRange": "$$"
 }
 ```

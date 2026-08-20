@@ -12,8 +12,8 @@ This folder contains ready-to-use marketing content:
 I could not browse `tristate-asbuilt-pros.netlify.app` (this environment's network policy blocks outbound access to it), so this content was written based on the business name and industry conventions for "as-built" surveying/drafting companies, not on the actual site content.
 
 **Before publishing, please fill in / correct:**
-- [ ] Real phone number (currently `(XXX) XXX-XXXX` placeholders)
-- [ ] Real service area / counties served (I guessed NYC, Long Island, Westchester, Rockland, Bergen/Essex/Union NJ, Fairfield CT)
+- [x] Real phone number — (845) 907-5025 (updated across all files)
+- [ ] Real service area / counties served (I guessed NYC, Long Island, Westchester, Rockland, Bergen/Essex/Union NJ, Fairfield CT — the 845 area code covers the Hudson Valley/Orange-Ulster-Dutchess-Rockland region, so double-check this matches)
 - [ ] Actual list of services offered (I listed common as-built industry services — confirm which ones you actually do)
 - [ ] Real turnaround time (I used "3–5 business days" as a placeholder)
 - [ ] Business address / Google Business Profile category accuracy

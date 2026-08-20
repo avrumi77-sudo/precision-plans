@@ -5,7 +5,7 @@ Ready-to-post content for Facebook & Instagram. Pair each with a relevant photo 
 ---
 
 **Post 1 — Introduction**
-👷 Meet Tri-State As-Built Pros — your go-to team for as-built surveys and CAD drawings across NY, NJ & CT. We help contractors and homeowners close out permits fast, with zero building department headaches. Free quotes, fast turnaround. 📞 Call or DM us today!
+👷 Meet Tri-State As-Built Pros — your go-to team for as-built surveys and CAD drawings across NY, NJ & CT. We help contractors and homeowners close out permits fast, with zero building department headaches. Free quotes, fast turnaround. 📞 Call (845) 907-5025 or DM us today!
 #AsBuiltSurvey #LandSurveyor #TriState #NYConstruction #NJConstruction #CTConstruction
 
 ---

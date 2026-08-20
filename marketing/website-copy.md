@@ -2,9 +2,9 @@
 
 ## Hero Section
 
-**Headline:** Precision As-Built Surveys & Drawings — Fast, Accurate, Guaranteed to Close Out Your Permit
+**Headline:** As-Built Surveys & Drawings for Architects, Designers & Contractors
 
-**Subheadline:** Serving contractors, architects, engineers, and homeowners in Lakewood, Toms River, Jackson & Brooklyn with certified as-built surveys and CAD drawings that satisfy building departments the first time.
+**Subheadline:** Serving architects, designers, and contractors in Lakewood, Toms River, Jackson & Brooklyn with certified as-built surveys and CAD drawings that satisfy building departments the first time.
 
 **Primary CTA button:** Get a Free Quote
 **Secondary CTA button:** Call (845) 907-5025
@@ -15,7 +15,7 @@
 
 Tri-State As-Built Pros delivers accurate, code-compliant as-built surveys and drawings across Ocean County, NJ and Brooklyn, NY. Whether you're closing out a permit, verifying construction against approved plans, or documenting an existing structure for a sale or renovation, our licensed surveyors and drafters get it right the first time — no back-and-forth with the building department, no costly delays.
 
-We work directly with contractors, architects, engineers, real estate attorneys, and homeowners, turning field measurements into clean, stamped, submission-ready drawings.
+We work directly with architects, designers, and contractors, turning field measurements into clean, stamped, submission-ready drawings your team can build and permit from with confidence.
 
 ---
 

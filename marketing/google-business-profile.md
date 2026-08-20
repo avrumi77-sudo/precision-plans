@@ -5,10 +5,10 @@ Primary: Land Surveyor
 Secondary: Drafting Service, Surveyor
 
 ## Short Description (used in some listings, ~250 chars)
-Licensed as-built surveys, CAD drawings & permit close-out services in Lakewood, Toms River, Jackson & Brooklyn. Fast turnaround, first-time building department approval.
+As-built surveys & CAD drawings for architects, designers & contractors in Lakewood, Toms River, Jackson & Brooklyn. Fast turnaround, first-time building department approval.
 
 ## Full "From the Business" Description (up to 750 characters)
-Tri-State As-Built Pros provides fast, accurate as-built surveys and CAD drawings for contractors, architects, engineers, and homeowners in Lakewood, Toms River, and Jackson, NJ, and Brooklyn, NY. We specialize in as-built surveys, elevation certificates, foundation location surveys, topographic surveys, and ALTA/NSPS land title surveys — all formatted to meet each municipality's exact building department requirements. Our licensed surveyors typically deliver stamped, submission-ready drawings within 3–5 business days, helping you close out permits without delays or rejected submissions. Call today for a free, same-day quote.
+Tri-State As-Built Pros provides fast, accurate as-built surveys and CAD drawings for architects, designers, and contractors in Lakewood, Toms River, and Jackson, NJ, and Brooklyn, NY. We specialize in as-built surveys, elevation certificates, foundation location surveys, topographic surveys, and ALTA/NSPS land title surveys — all formatted to meet each municipality's exact building department requirements. Our licensed surveyors typically deliver stamped, submission-ready drawings within 3–5 business days, helping you close out permits without delays or rejected submissions. Call today for a free, same-day quote.
 
 ## Services to List
 - As-Built Surveys

@@ -14,6 +14,7 @@ I could not browse `tristate-asbuilt-pros.netlify.app` (this environment's netwo
 **Before publishing, please fill in / correct:**
 - [x] Real phone number — (845) 907-5025 (updated across all files)
 - [x] Real service area — Lakewood, Toms River, Jackson (Ocean County, NJ) & Brooklyn, NY (updated across all files)
+- [x] Target audience — architects, designers & contractors (now the primary tagline/positioning across all files)
 - [ ] Actual list of services offered (I listed common as-built industry services — confirm which ones you actually do)
 - [ ] Real turnaround time (I used "3–5 business days" as a placeholder)
 - [ ] Business address / Google Business Profile category accuracy

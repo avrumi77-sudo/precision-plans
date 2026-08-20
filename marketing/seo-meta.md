@@ -3,10 +3,10 @@
 ## Homepage
 
 **Title tag (≤60 chars):**
-As-Built Surveys & Drawings | Lakewood, Toms River, Brooklyn
+As-Built Surveys for Architects, Designers & Contractors
 
 **Meta description (≤155 chars):**
-Fast, accurate as-built surveys & CAD drawings in Lakewood, Toms River, Jackson & Brooklyn. Close out your permit the first time. Free quotes.
+As-built surveys & CAD drawings for architects, designers & contractors in Lakewood, Toms River, Jackson & Brooklyn. Free quotes, fast turnaround.
 
 **Suggested URL:** `/` (homepage)
 
@@ -57,6 +57,9 @@ Licensed as-built surveyors serving {CITY} & {COUNTY}. Fast turnaround, permit-r
 - land surveyor Lakewood / Toms River / Brooklyn
 - site plan for permit
 - CAD drafting as-built
+- as-built survey for architects
+- as-built drawings for designers
+- as-built survey for contractors
 
 ## Secondary / Long-Tail Keywords
 
@@ -79,7 +82,7 @@ Add `LocalBusiness` (or more specifically `ProfessionalService`) JSON-LD to the 
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
   "name": "Tri-State As-Built Pros",
-  "description": "Licensed as-built surveys, CAD drawings, and permit close-out services in Lakewood, Toms River, Jackson & Brooklyn.",
+  "description": "As-built surveys and CAD drawings for architects, designers, and contractors in Lakewood, Toms River, Jackson & Brooklyn.",
   "areaServed": ["Lakewood, NJ", "Toms River, NJ", "Jackson, NJ", "Brooklyn, NY"],
   "url": "https://tristate-asbuilt-pros.netlify.app/",
   "telephone": "+1-845-907-5025",

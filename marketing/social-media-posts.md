@@ -5,8 +5,8 @@ Ready-to-post content for Facebook & Instagram. Pair each with a relevant photo 
 ---
 
 **Post 1 — Introduction**
-👷 Meet Tri-State As-Built Pros — your go-to team for as-built surveys and CAD drawings in Lakewood, Toms River, Jackson & Brooklyn. We help contractors and homeowners close out permits fast, with zero building department headaches. Free quotes, fast turnaround. 📞 Call (845) 907-5025 or DM us today!
-#AsBuiltSurvey #LandSurveyor #Lakewood #TomsRiver #Jackson #Brooklyn #OceanCountyNJ
+👷 Meet Tri-State As-Built Pros — your go-to team for as-built surveys and CAD drawings, built for architects, designers & contractors in Lakewood, Toms River, Jackson & Brooklyn. Free quotes, fast turnaround. 📞 Call (845) 907-5025 or DM us today!
+#AsBuiltSurvey #LandSurveyor #Architects #Contractors #Lakewood #TomsRiver #Jackson #Brooklyn
 
 ---
 
@@ -29,8 +29,8 @@ Permit rejected because your as-built drawing didn't match the building departme
 ---
 
 **Post 5 — Social proof / trust**
-✅ Licensed. ✅ Insured. ✅ Fast. Tri-State As-Built Pros has helped contractors, architects, and homeowners in Lakewood, Toms River, Jackson & Brooklyn get accurate as-built surveys without the runaround. Let us take the surveying stress off your plate.
-#AsBuiltSurveyPros #OceanCountyNJ #Brooklyn
+✅ Licensed. ✅ Insured. ✅ Fast. Tri-State As-Built Pros helps architects, designers, and contractors in Lakewood, Toms River, Jackson & Brooklyn get accurate as-built surveys without the runaround. Let us take the surveying stress off your plate.
+#AsBuiltSurveyPros #Architects #Contractors #OceanCountyNJ #Brooklyn
 
 ---
 
@@ -54,4 +54,4 @@ An as-built survey documents what was actually constructed vs. the approved plan
 ---
 
 ## Hashtag Bank (mix 3–5 per post)
-#AsBuiltSurvey #AsBuiltDrawings #LandSurveyor #Lakewood #TomsRiver #Jackson #Brooklyn #OceanCountyNJ #PermitApproval #ElevationCertificate #FoundationSurvey #ALTASurvey #GeneralContractor #RealEstateDevelopment #SiteplanApproval #CADDrafting
+#AsBuiltSurvey #AsBuiltDrawings #LandSurveyor #Architects #Designers #Contractors #Lakewood #TomsRiver #Jackson #Brooklyn #OceanCountyNJ #PermitApproval #ElevationCertificate #FoundationSurvey #ALTASurvey #GeneralContractor #SiteplanApproval #CADDrafting
